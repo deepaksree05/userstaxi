@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147035944122",
+    "project_id": "trippo-a4fb1",
+    "storage_bucket": "trippo-a4fb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147035944122:android:99b280a4053b26fd4efe83",
+        "android_client_info": {
+          "package_name": "com.example.users"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_lkkfpBpWm29MMtzf6477NhE6x6k-8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
